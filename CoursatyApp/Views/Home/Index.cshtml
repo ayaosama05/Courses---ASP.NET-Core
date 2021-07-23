@@ -2,7 +2,30 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row">
+    <div class="col-md-3">
+        @if (ViewBag.News != null)
+        {
+            foreach (var item in ViewBag.News)
+            {
+                <div class="card mb-1" style="width: 18rem;">
+                    <img class="card-img-top" src="@item.UrlToImage" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Description</p>
+                        <a href="@item.Url" class="btn btn-primary">Go to link</a>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+    <div class="col-md-9">
+
+        <div class="text-center">
+            <h1 class="display-4">Welcome</h1>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+
+    </div>
+
 </div>

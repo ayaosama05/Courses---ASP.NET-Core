@@ -149,6 +149,8 @@ D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Raz
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Contents\Create.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Contents\Edit.cshtml.g.cs
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
@@ -170,5 +172,11 @@ D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Cou
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\ref\CoursatyApp.dll
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\CoursatyApp.pdb
 D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\CoursatyApp.genruntimeconfig.cache
-D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Contents\Create.cshtml.g.cs
-D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Contents\Edit.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\CoursatyApp.csprojAssemblyReference.cache
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaTypes\Create.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaTypes\Delete.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaTypes\Details.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaTypes\Edit.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\MediaTypes\Index.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\obj\Debug\net5.0\Razor\Views\Shared\_DateScriptsPartial.cshtml.g.cs
+D:\Mineeee\Coursrs 2021\c#\Training\CoursatyApp\CoursatyApp\bin\Debug\net5.0\NewsAPI.dll

@@ -15,6 +15,7 @@ namespace CoursatyApp.Entitities
         public string Title { get; set; }
         public string Description{ get; set; }
         [Required]
+        [Display(Name ="Thumbnail Image Path")]
         public string ImagePath { get; set; }
 
         [ForeignKey("CategoryId")]
